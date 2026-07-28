@@ -1,44 +1,99 @@
-# 🌐 My Portfolio
+## Preview
 
-Welcome to my personal portfolio website! This website showcases my projects, skills, and ways to get in touch with me.
+![Portfolio Screenshot](assets/preview.webp)
 
-## 🚀 Live Demo
+# 🌌 Anubhav Singh | Portfolio
 
-https://YOUR_USERNAME.github.io/portfolio/
+> A modern, interactive portfolio website showcasing my journey, skills, and projects in Machine Learning and Software Development.
 
-*(Replace this with your GitHub Pages URL after deployment.)*
+<p align="center">
+  <a href="https://logicaldrift.github.io/my-portfolio/">🌐 Live Demo</a>
+  •
+  <a href="https://github.com/LogicalDrift">GitHub</a>
+  •
+  <a href="https://www.linkedin.com/in/anubhavsingh2794/">LinkedIn</a>
+</p>
+
+---
+
+## 📖 About
+
+This portfolio represents my passion for building beautiful user experiences while pursuing Machine Learning and Artificial Intelligence.
+
+The website is designed from scratch using vanilla HTML, CSS, and JavaScript, focusing on performance, animations, and a premium user experience without relying on heavy frameworks.
+
+---
 
 ## ✨ Features
 
-- Responsive design
-- About Me section
-- Skills section
-- Projects showcase
-- Contact information
-- Smooth animations and interactions
+- 🎨 Modern dark-themed UI
+- 🖱️ Custom animated cursor
+- ✨ Smooth scroll animations
+- 📱 Fully responsive design
+- 📊 Animated skills section
+- 💼 Resume download
+- 📂 Dedicated project showcase
+- 📬 Contact section
+- ⚡ Lightweight and fast
+- 🌌 Interactive hero background
 
-## 🛠️ Built With
+---
 
-- HTML5
-- CSS3
-- JavaScript
+## 🛠️ Tech Stack
+
+| Frontend | Styling | Tools |
+|----------|----------|-------|
+| HTML5 | CSS3 | GitHub Pages |
+| JavaScript (ES6) | Glassmorphism | Font Awesome |
+| Responsive Design | CSS Animations | Google Fonts |
+
+---
 
 ## 📂 Project Structure
 
 ```
-.
+my-portfolio/
+│
 ├── index.html
-├── style.css
+├── styles.css
 ├── script.js
-└── assets/
+├── assets/
+│   ├── icons/
+│   ├── resume/
+│   ├── images/
+│   └── ...
+└── README.md
 ```
+
+---
+
+## 🎯 Highlights
+
+- Built entirely with Vanilla Web Technologies
+- Optimized for desktop and mobile
+- Interactive navigation with active indicators
+- Dynamic skill cards
+- Modern UI inspired by premium portfolios
+- Smooth scrolling experience
+
+---
+
+## 🚀 Live Website
+
+🌐 https://logicaldrift.github.io/my-portfolio/
+
+---
 
 ## 📬 Contact
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: Add your LinkedIn profile
-- Email: your-email@example.com
+**Anubhav Singh**
 
-## 📄 License
+- 📧 anubhavsingh2794@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/anubhavsingh2794/
+- 🐙 GitHub: https://github.com/LogicalDrift
 
-This project is open source and available under the MIT License.
+---
+
+## ⭐ Support
+
+If you like this portfolio or found it inspiring, consider giving this repository a ⭐.
